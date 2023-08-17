@@ -5,6 +5,6 @@
 3. generate load on the web server by executing *load_generator* executable with hostname, server port number, number of concurrent users, think time (in seconds) and test duration (in seconds) as argument <br />
 
 For example
-./server <port number> <br />
+./server \<port number\> <br />
 followed by <br />
-./load_generator <hostname> <server port> <number of concurrent users> <think time (in s)> <test duration (in s)>
+./load_generator \<hostname\> \<server port\> \<number of concurrent users\> \<think time (in s)\> \<test duration (in s)\>
